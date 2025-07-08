@@ -1,6 +1,6 @@
 # Stardewvalley-unraid
 Unraid ready Stardew valley server
-[README.md](https://github.com/user-attachments/files/21131197/README.md)# Stardew Valley Server - Unraid Community Application
+ Stardew Valley Server - Unraid Community Application
 
 A headless Stardew Valley dedicated server with full mod support for Unraid systems. Perfect for hosting persistent multiplayer farms that you and your friends can access anytime!
 
